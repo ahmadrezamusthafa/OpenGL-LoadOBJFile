@@ -1,0 +1,156 @@
+﻿Build started 3/22/2015 5:53:40 PM.
+     1>Project "C:\Users\REZA\Documents\Visual Studio 2012\Projects\TugasGrafkom_LoadOBJ\TugasGrafkom_LoadOBJ\TugasGrafkom_LoadOBJ.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oi /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(202): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(250): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(278): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(279): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(115) : see declaration of 'strcat'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(282): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(292): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(303): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : see declaration of 'sscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(338): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(342): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(352): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : see declaration of 'sscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(354): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(357): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(366): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(369): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(372): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(384): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(417): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(440): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(441): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(115) : see declaration of 'strcat'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(445): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(497): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(531): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : see declaration of 'sscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(532): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(551): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(556): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : see declaration of 'sscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(557): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(558): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(561): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(567): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : see declaration of 'sscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(570): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(571): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(574): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(580): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : see declaration of 'sscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(583): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(584): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(587): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(596): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(597): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(600): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(663): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(675): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(679): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(683): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(690): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : see declaration of 'sscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(706): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(711): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : see declaration of 'sscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(714): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(717): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(722): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(734): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : see declaration of 'sscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(740): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(744): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(750): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(765): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : see declaration of 'sscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(770): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(773): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(778): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(793): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : see declaration of 'sscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(795): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(797): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(801): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(1411): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(1420): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(1532): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(1677): warning C4101: 'prevmode' : unreferenced local variable
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(1939): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(1979): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : see declaration of 'sscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(1983): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : see declaration of 'sscanf'
+     1>c:\users\reza\documents\visual studio 2012\projects\tugasgrafkom_loadobj\tugasgrafkom_loadobj\glm.c(1987): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : see declaration of 'sscanf'
+     1>Main.cpp(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+     1>Main.cpp(2239): warning C4101: 'wz' : unreferenced local variable
+     1>Main.cpp(2238): warning C4101: 'projection' : unreferenced local variable
+     1>Main.cpp(2238): warning C4101: 'modelview' : unreferenced local variable
+     1>Main.cpp(2239): warning C4101: 'wy' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\REZA\Documents\Visual Studio 2012\Projects\TugasGrafkom_LoadOBJ\Release\TugasGrafkom_LoadOBJ.exe" /INCREMENTAL /NOLOGO opengl32.lib glu32.lib glaux.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\REZA\Documents\Visual Studio 2012\Projects\TugasGrafkom_LoadOBJ\Release\TugasGrafkom_LoadOBJ.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\REZA\Documents\Visual Studio 2012\Projects\TugasGrafkom_LoadOBJ\Release\TugasGrafkom_LoadOBJ.lib" /MACHINE:X86 /SAFESEH:NO Release\Main.obj
+         TugasGrafkom_LoadOBJ.vcxproj -> C:\Users\REZA\Documents\Visual Studio 2012\Projects\TugasGrafkom_LoadOBJ\Release\TugasGrafkom_LoadOBJ.exe
+     1>Done Building Project "C:\Users\REZA\Documents\Visual Studio 2012\Projects\TugasGrafkom_LoadOBJ\TugasGrafkom_LoadOBJ\TugasGrafkom_LoadOBJ.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.27

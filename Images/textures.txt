@@ -1,0 +1,14 @@
+13
+bg.bmp
+menu.bmp
+m1a.bmp
+m1b.bmp
+m2a.bmp
+m2b.bmp
+m3a.bmp
+m3b.bmp
+m3a.bmp
+bg2.bmp
+tunggu.bmp
+awan1.bmp
+awan2.bmp
